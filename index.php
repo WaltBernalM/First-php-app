@@ -19,6 +19,9 @@
        ****   ****
         ***   ***
   </pre>
+  <a href="check.php">Click here to see the check.php</a>
+  <br />
+  <a href="fail.php">Click here to see the fail.php</a>
 </body>
 
 </html>
