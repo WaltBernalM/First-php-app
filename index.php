@@ -12,6 +12,13 @@
   <?php
   echo 'the SHA256 hash of "Walter Bernal" is', hash('sha256', 'Walter Bernal');
   ?>
+  <pre>
+    ***           ***
+     ***   ***   ***
+      *** ***** ***
+       ****   ****
+        ***   ***
+  </pre>
 </body>
 
 </html>
