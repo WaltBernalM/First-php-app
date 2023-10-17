@@ -9,6 +9,9 @@
 
 <body>
   <h1>Walter Bernal PHP</h1>
+  <?php
+  echo 'the SHA256 hash of "Walter Bernal" is', hash('sha256', 'Walter Bernal');
+  ?>
 </body>
 
 </html>
